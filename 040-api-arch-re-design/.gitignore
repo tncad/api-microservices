@@ -1,0 +1,3 @@
+openapi-petstore
+openapi-petstore-dummy/target
+*.jar
